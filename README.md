@@ -7,9 +7,10 @@ Each player takes turns clicking on any unflipped die of their choice. The numbe
 each die, is added to the players current score. The first player to reach 20 points wins.
 
 ## Authors/Acknowledgments
-1. Chow, Patrick
-2. Khan, Allina
-3. Shapiro, Gerard
-4. Xiao, Jason
+1. Belendez, Stephany
+2. Chow, Patrick
+3. Khan, Allina
+4. Shapiro, Gerard
+5. Xiao, Jason
 
 ##### Project Completed: October,2019
